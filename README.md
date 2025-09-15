@@ -26,8 +26,8 @@ Workflow:
 
 Results:
 
-Test Accuracy: 92.95%
+Test Accuracy: 84.45%
 
-Recall: 98.46%
+Recall: 84.45%
 
-Precision: 91%
+Precision: 84.33%
